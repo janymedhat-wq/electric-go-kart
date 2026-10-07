@@ -1,0 +1,8 @@
+# Ignore build artifacts and local settings
+build/
+.vscode/
+.DS_Store
+*.log
+*.tmp
+.env
+local_config.*

@@ -1,0 +1,16 @@
+#ifndef PINMAP_H
+#define PINMAP_H
+
+#define ADC_THROTTLE_A_PIN 0u
+#define ADC_THROTTLE_B_PIN 1u
+#define ADC_BRAKE_PIN 2u
+#define ADC_CURRENT_PIN 3u
+#define ADC_VOLTAGE_PIN 4u
+
+#define GPIO_ESTOP_PIN 5u
+#define GPIO_KEY_PIN 6u
+#define GPIO_MAIN_CONTACTOR_PIN 7u
+#define GPIO_PRECHARGE_PIN 8u
+#define GPIO_BRAKE_LIGHT_PIN 9u
+
+#endif
