@@ -1,0 +1,15 @@
+#ifndef CAN_IDS_H
+#define CAN_IDS_H
+
+#define CAN_ID_ECU_HEARTBEAT 0x010u
+#define CAN_ID_BMS_PACK 0x100u
+#define CAN_ID_BMS_CELL 0x101u
+#define CAN_ID_BMS_FAULT 0x102u
+#define CAN_ID_ECU_TORQUE 0x200u
+#define CAN_ID_MC_RPM 0x300u
+#define CAN_ID_MC_STATUS 0x301u
+#define CAN_ID_ECU_STATUS 0x210u
+#define CAN_ID_ECU_FAULT 0x211u
+#define CAN_ID_DIAGNOSTICS 0x7E0u
+
+#endif
